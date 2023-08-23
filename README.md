@@ -1,4 +1,3 @@
-# DenisCV
 # Denis Kasala - Professional CV
 
 Welcome to my professional CV's HTML code repository. This repository contains the HTML and CSS files that make up my online CV, showcasing my work experience, skills, education, and contact information.
